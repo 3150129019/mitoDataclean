@@ -1,0 +1,18 @@
+Package: mitoDataclean
+Type: Package
+Title: a machine learning approach for accurate identification of cross contamination-derived 
+       mitochondrial DNA mutations in next generation sequencing data
+Version: 0.1.0
+Author: Liping Su, Shanshan Guo
+Maintainer: Liping Su <929025191@qq.com>
+Description: a random forest-based machine learning package for accurate identification of 
+             cross-contamination, evaluation of contamination level, and detection of 
+             contamination-derived variants in mtDNA NGS data.
+License: GPL
+Depends: R(>= 4.0.0)
+Imports: randomForest
+Encoding: UTF-8
+URL: https://github.com/3150129019/mitoDataclean
+BugReports: https://github.com/3150129019/mitoDataclean/issues
+LazyData: true
+RoxygenNote: 7.1.1
