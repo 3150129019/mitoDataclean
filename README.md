@@ -25,9 +25,10 @@ install_github("3150129019/mitoDataclean")
 
 ```
 library(mitoDataclean)
-mitoDataclean<-mitoDataclean(data=variants)
-features<-mitoDataclean$features
-CL<-mitoDataclean$contamination_level
+data(variants)
+result<-mitoDataclean(variants=variants)
+variant.level<-result$variant.level
+sample.level<-result$sample.level
 ```
 
 ### Input
