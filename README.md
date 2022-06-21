@@ -78,7 +78,9 @@ reference allele, variant allele and variant allele frequency(VAF), was applied 
 - **Contaminated-derived variants number(major):**  Total number of  contaminated-derived major Heteroplasmic variants number in a sample.
 - **Contaminated-derived variants number(minor):**  Total number of  contaminated-derived minor Heteroplasmic variants number in a sample.
 
+# Citation
 
+Su L, Guo S, Guo W, Ji X, Liu Y, Zhang H, Huang Q, Zhou K, Guo X, Gu X, Xing J. mitoDataclean: A machine learning approach for the accurate identification of cross-contamination-derived tumor mitochondrial DNA mutations. Int J Cancer. 2022 May 15;150(10):1677-1689. doi: 10.1002/ijc.33927. Epub 2022 Jan 31. PMID: 35001369.
 
 # Contact 
 
