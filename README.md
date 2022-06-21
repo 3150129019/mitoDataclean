@@ -86,5 +86,5 @@ Su L, Guo S, Guo W, Ji X, Liu Y, Zhang H, Huang Q, Zhou K, Guo X, Gu X, Xing J. 
 
 Bugs and difficulties in using mitoDataclean are welcome on [the issue tracker](https://github.com/3150129019/mitoDataclean/issues). 
 
-Or you can address comments/questions/suggestions regarding this R package to: 929025191@qq.com<br>
+Or you can address comments/questions/suggestions regarding this R package to: 929025191@qq.com or xingjinliang@163.com<br>
 
